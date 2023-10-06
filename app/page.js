@@ -15,7 +15,7 @@ export default function Home() {
         </h1>
 
         <p className="mt-3 text-2xl">
-          Bioinformatician | PhD Candidate at HKUMed  The University of Hong Kong
+          Digital Health & Bioinformatic Research | PhD Candidate at HKUMed  The University of Hong Kong
         </p>
 
         <div className="flex items-center justify-center mt-6">
